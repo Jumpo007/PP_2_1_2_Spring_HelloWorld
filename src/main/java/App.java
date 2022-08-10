@@ -22,6 +22,5 @@ public class App {
         System.out.println(bean4.getMessage());
         System.out.println(bean3 == bean4);
 
-
     }
 }
